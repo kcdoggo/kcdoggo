@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a href="" target="_blank"><img src="https://img.shields.io/badge/#964B00?style=plastic&logo=une caniche marron&logoColor=brown"/></a>
+<img src="https://img.shields.io/badge/javascript-#F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 
 ![cDoGGo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcdoggo&show_icons=true&theme=radical)
 
