@@ -1,7 +1,7 @@
 ### Hi there 👋
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-<img src="https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=Node.js&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/><img src="https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=Node.js&logoColor=black"/><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
+
+
 ![cDoGGo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcdoggo&show_icons=true&theme=radical)
 
 <!--
