@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Salut  %20&fontSize=40&animation=scaleIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Salut%20&fontSize=40&animation=scaleIn)
 
 <div align='center'>
   Je m'appelle Sujin et je fais des études en informatique à l'université féminine de Sungshine.
