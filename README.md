@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=Salut%20&fontSize=40&animation=scaleIn)
 
 <div align='center'>
-  Je m'appelle Sujin et je fais des études en informatique à l'université féminine de Sungshine.
+  Salut ! 👋 Je m'appelle Sujin et je fais des études en informatique à l'université féminine de Sungshine.
   </br>
   N'hésitez pas à me contacter.
   </br>
