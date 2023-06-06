@@ -4,13 +4,16 @@
   Je m'appelle Sujin et je fais des études en informatique à l'université féminine de Sungshine.
   </br>
   N'hésitez pas à me contacter.
+  </br>
+  </br>
+  
+![cDoGGo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcdoggo&show_icons=true&theme=github_dark )
 </div>
 
 <!--
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=Node.js&logoColor=black"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
 -->
 
-![cDoGGo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcdoggo&show_icons=true&theme=github_dark )
 
 <!--
 **kcdoggo/kcdoggo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
