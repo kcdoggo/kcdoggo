@@ -7,7 +7,7 @@
   </br>
   </br>
   
-![cDoGGo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcdoggo&show_icons=true&theme=github_dark )
+![cDoGGo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcdoggo&show_icons=true&theme=graywhite )
 </div>
 
 <!--
