@@ -6,8 +6,6 @@
   N'hésitez pas à me contacter.
   </br>
   </br>
-  
-![cDoGGo's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcdoggo&show_icons=true&theme=graywhite )
 </div>
 
 <!--
