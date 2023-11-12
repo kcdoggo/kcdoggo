@@ -1,6 +1,6 @@
 
 <div align='center'>
-  Salut ! 👋 Je m'appelle Sujin et je fais des études en informatique à l'université féminine de Sungshine.
+  Salut ! 👋 je fais des études en informatique à l'université féminine de Sungshine.
   </br>
   N'hésitez pas à me contacter.
   </br>
